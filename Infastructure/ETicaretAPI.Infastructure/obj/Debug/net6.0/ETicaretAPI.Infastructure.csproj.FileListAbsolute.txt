@@ -1,0 +1,17 @@
+C:\Users\eness\OneDrive\Masaüstü\desktop\software\Projects\ETicaretUygulaması\ETicaretAPI\Infastructure\ETicaretAPI.Infastructure\bin\Debug\net6.0\ETicaretAPI.Infastructure.deps.json
+C:\Users\eness\OneDrive\Masaüstü\desktop\software\Projects\ETicaretUygulaması\ETicaretAPI\Infastructure\ETicaretAPI.Infastructure\bin\Debug\net6.0\ETicaretAPI.Infastructure.dll
+C:\Users\eness\OneDrive\Masaüstü\desktop\software\Projects\ETicaretUygulaması\ETicaretAPI\Infastructure\ETicaretAPI.Infastructure\bin\Debug\net6.0\ETicaretAPI.Infastructure.pdb
+C:\Users\eness\OneDrive\Masaüstü\desktop\software\Projects\ETicaretUygulaması\ETicaretAPI\Infastructure\ETicaretAPI.Infastructure\bin\Debug\net6.0\ETicaretAPI.Application.dll
+C:\Users\eness\OneDrive\Masaüstü\desktop\software\Projects\ETicaretUygulaması\ETicaretAPI\Infastructure\ETicaretAPI.Infastructure\bin\Debug\net6.0\ETicaretAPI.Domain.dll
+C:\Users\eness\OneDrive\Masaüstü\desktop\software\Projects\ETicaretUygulaması\ETicaretAPI\Infastructure\ETicaretAPI.Infastructure\bin\Debug\net6.0\ETicaretAPI.Application.pdb
+C:\Users\eness\OneDrive\Masaüstü\desktop\software\Projects\ETicaretUygulaması\ETicaretAPI\Infastructure\ETicaretAPI.Infastructure\bin\Debug\net6.0\ETicaretAPI.Domain.pdb
+C:\Users\eness\OneDrive\Masaüstü\desktop\software\Projects\ETicaretUygulaması\ETicaretAPI\Infastructure\ETicaretAPI.Infastructure\obj\Debug\net6.0\ETicaretAPI.Infastructure.csproj.AssemblyReference.cache
+C:\Users\eness\OneDrive\Masaüstü\desktop\software\Projects\ETicaretUygulaması\ETicaretAPI\Infastructure\ETicaretAPI.Infastructure\obj\Debug\net6.0\ETicaretAPI.Infastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eness\OneDrive\Masaüstü\desktop\software\Projects\ETicaretUygulaması\ETicaretAPI\Infastructure\ETicaretAPI.Infastructure\obj\Debug\net6.0\ETicaretAPI.Infastructure.AssemblyInfoInputs.cache
+C:\Users\eness\OneDrive\Masaüstü\desktop\software\Projects\ETicaretUygulaması\ETicaretAPI\Infastructure\ETicaretAPI.Infastructure\obj\Debug\net6.0\ETicaretAPI.Infastructure.AssemblyInfo.cs
+C:\Users\eness\OneDrive\Masaüstü\desktop\software\Projects\ETicaretUygulaması\ETicaretAPI\Infastructure\ETicaretAPI.Infastructure\obj\Debug\net6.0\ETicaretAPI.Infastructure.csproj.CoreCompileInputs.cache
+C:\Users\eness\OneDrive\Masaüstü\desktop\software\Projects\ETicaretUygulaması\ETicaretAPI\Infastructure\ETicaretAPI.Infastructure\obj\Debug\net6.0\ETicaretAPI.Infastructure.csproj.CopyComplete
+C:\Users\eness\OneDrive\Masaüstü\desktop\software\Projects\ETicaretUygulaması\ETicaretAPI\Infastructure\ETicaretAPI.Infastructure\obj\Debug\net6.0\ETicaretAPI.Infastructure.dll
+C:\Users\eness\OneDrive\Masaüstü\desktop\software\Projects\ETicaretUygulaması\ETicaretAPI\Infastructure\ETicaretAPI.Infastructure\obj\Debug\net6.0\refint\ETicaretAPI.Infastructure.dll
+C:\Users\eness\OneDrive\Masaüstü\desktop\software\Projects\ETicaretUygulaması\ETicaretAPI\Infastructure\ETicaretAPI.Infastructure\obj\Debug\net6.0\ETicaretAPI.Infastructure.pdb
+C:\Users\eness\OneDrive\Masaüstü\desktop\software\Projects\ETicaretUygulaması\ETicaretAPI\Infastructure\ETicaretAPI.Infastructure\obj\Debug\net6.0\ref\ETicaretAPI.Infastructure.dll
